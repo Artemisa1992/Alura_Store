@@ -1,4 +1,4 @@
-# Alura_Store
+# :department_store: Alura_Store
 # Análise de Desempenho das Lojas
 
 Este projeto realiza uma análise exploratória dos dados de quatro lojas para avaliar seu desempenho em diferentes aspectos, como faturamento, vendas por categoria, avaliação dos clientes e frete médio. O objetivo inicial foi fornecer insights preliminares para auxiliar em uma potencial decisão de venda de uma das unidades.
@@ -43,7 +43,7 @@ A análise inicial cobriu os seguintes pontos:
   <strong>Frete Médio</strong>
 </p> 
 
-## Insights Preliminares
+## :memo: Insights Preliminares
 
 Com base nos dados analisados, foram identificados:
 
