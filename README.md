@@ -5,15 +5,43 @@ Este projeto realiza uma análise exploratória dos dados de quatro lojas para a
 
 **Status do Projeto:** Análise Concluída.
 
-## Conteúdo da Análise
+## 📊 Visualizações e Análises
 
 A análise inicial cobriu os seguintes pontos:
 
 1.  **Análise do Faturamento:** Cálculo do faturamento total por loja e identificação das lojas com maior e menor faturamento.
+
+<p align="center">
+  <img src="https://github.com/Artemisa1992/Alura_Store/raw/main/Faturamento_lojas.png" alt="Faturamento Lojas" width="400"/>
+  <br>
+  <strong>Faturamento por Loja</strong>
+</p>
+
 2.  **Vendas por Categoria:** Distribuição e faturamento das vendas por categoria de produto em cada loja.
+
+<p align="center">
+  <img src="https://github.com/Artemisa1992/Alura_Store/raw/main/venda_categoria.png" alt="Venda por Categoria" width="400"/>
+  <br>
+  <strong>Venda por Categoria</strong>
+</p> 
+
 3.  **Média de Avaliação das Lojas:** Cálculo da média de avaliação de compra para cada loja e identificação da loja com melhor e pior avaliação.
+
+<p align="center">
+  <img src="https://github.com/Artemisa1992/Alura_Store/raw/main/avaliacao_media.png" alt="Avaliação Média" width="400"/>
+  <br>
+  <strong>Avaliação Média</strong>
+</p>
+
 4.  **Produtos Mais e Menos Vendidos:** Identificação dos top 10 produtos mais e menos vendidos com base no faturamento total consolidado das quatro lojas.
+
 5.  **Frete Médio por Loja:** Cálculo do frete médio para cada loja.
+
+ <p align="center">
+  <img src="https://github.com/Artemisa1992/Alura_Store/raw/main/Frete_medio.png" alt="Frete Médio" width="400"/>
+  <br>
+  <strong>Frete Médio</strong>
+</p> 
 
 ## Insights Preliminares
 
@@ -37,6 +65,15 @@ Este projeto é um notebook Jupyter e pode ser executado em um ambiente Python c
 *   Python 3.x
 *   Jupyter Notebook ou JupyterLab
 *   Bibliotecas Python: `pandas`, `matplotlib`
+
+
+
+
+
+
+
+
+
 
 
 
